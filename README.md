@@ -114,15 +114,15 @@ The project includes a Streamlit application that:
 
 #### 1. Streamlit Application — Patient Measurements
 
-![Streamlit Inputs](screenshots/streamlit_inputs.png)
+![Streamlit Inputs](streamlit_inputs.png)
 
 #### 2. Streamlit Application — Prediction Result
 
-![Streamlit Prediction](screenshots/streamlit_prediction.png)
+![Streamlit Prediction](streamlit_prediction.png)
 
 #### 3. Model Evaluation — Classification Report and Confusion Matrix
 
-![Model Evaluation](screenshots/model_evaluation.png)
+![Model Evaluation](model_evaluation.png)
 
 *Note: The screenshot filenames and paths must match the actual files uploaded to the `screenshots` folder in this repository.*
 
